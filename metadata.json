@@ -1,0 +1,7 @@
+{
+  "name": "AI English Language Trainer",
+  "description": "An application that listens to user's speech, transcribes it, and uses Gemini API to provide corrections and explanations for English language errors. It also supports text-to-speech for corrected sentences.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
